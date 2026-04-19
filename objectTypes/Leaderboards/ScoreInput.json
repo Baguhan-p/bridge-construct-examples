@@ -1,9 +1,0 @@
-{
-	"name": "ScoreInput",
-	"plugin-id": "TextBox",
-	"sid": 348957874482667,
-	"isGlobal": false,
-	"editorNewInstanceIsReplica": true,
-	"instanceVariables": [],
-	"behaviorTypes": []
-}
