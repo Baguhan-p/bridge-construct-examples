@@ -1,0 +1,16 @@
+{
+	"name": "TextPayments",
+	"plugin-id": "Text",
+	"sid": 226839950008798,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Tween",
+			"name": "Твинанимация",
+			"sid": 522153280246211
+		}
+	],
+	"effectTypes": []
+}

@@ -1,0 +1,24 @@
+{
+	"name": "TextBoxPayments",
+	"plugin-id": "TextBox",
+	"sid": 416881979248937,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [
+		{
+			"name": "saveText",
+			"type": "string",
+			"desc": "",
+			"show": true,
+			"sid": 327204241440077
+		},
+		{
+			"name": "help",
+			"type": "string",
+			"desc": "",
+			"show": true,
+			"sid": 968163872335945
+		}
+	],
+	"behaviorTypes": []
+}

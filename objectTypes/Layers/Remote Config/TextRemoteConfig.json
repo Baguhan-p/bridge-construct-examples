@@ -1,0 +1,16 @@
+{
+	"name": "TextRemoteConfig",
+	"plugin-id": "Text",
+	"sid": 580207936777799,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Tween",
+			"name": "Твинанимация",
+			"sid": 340756004127883
+		}
+	],
+	"effectTypes": []
+}

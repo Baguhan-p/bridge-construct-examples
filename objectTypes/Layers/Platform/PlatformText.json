@@ -1,0 +1,16 @@
+{
+	"name": "PlatformText",
+	"plugin-id": "Text",
+	"sid": 675997894838554,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Tween",
+			"name": "Твинанимация",
+			"sid": 790817255302026
+		}
+	],
+	"effectTypes": []
+}

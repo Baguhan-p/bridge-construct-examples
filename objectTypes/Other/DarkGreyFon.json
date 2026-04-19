@@ -1,0 +1,37 @@
+{
+	"name": "DarkGreyFon",
+	"plugin-id": "NinePatch",
+	"sid": 760073224742030,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [
+		{
+			"name": "baseSize",
+			"type": "number",
+			"desc": "",
+			"show": true,
+			"sid": 253566070562412
+		}
+	],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Tween",
+			"name": "Твинанимация",
+			"sid": 647711964244333
+		}
+	],
+	"effectTypes": [],
+	"image": {
+		"width": 64,
+		"height": 64,
+		"originX": 0.5,
+		"originY": 0.5,
+		"originalSource": "",
+		"exportFormat": "lossless",
+		"exportQuality": 0.8,
+		"fileType": "image/png",
+		"imageSpriteId": 9907464,
+		"useCollisionPoly": true,
+		"tag": ""
+	}
+}

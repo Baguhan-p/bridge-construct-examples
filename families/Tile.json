@@ -1,0 +1,20 @@
+{
+	"name": "Tile",
+	"plugin-id": "NinePatch",
+	"sid": 122216384245788,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"members": [
+		"TilePayments",
+		"TileAdverstining",
+		"TileLeaderboards",
+		"TileMain",
+		"TilePlatform",
+		"TilePlayer",
+		"TileSocial",
+		"TileStorage",
+		"TileAchievements",
+		"TileRemoteConfig"
+	]
+}

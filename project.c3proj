@@ -1,0 +1,402 @@
+{
+	"projectFormatVersion": 1,
+	"savedWithRelease": 47902,
+	"name": "Playgma Bridge",
+	"runtime": "c3",
+	"useWorker": "dom",
+	"bundleAddons": false,
+	"usedAddons": [
+		{
+			"type": "plugin",
+			"id": "Browser",
+			"name": "Браузер",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Mouse",
+			"name": "Мышь",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "NinePatch",
+			"name": "9-патч",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "PlaygamaBridge",
+			"name": "[PlaygamaBridge]",
+			"author": "[Playgama]",
+			"bundled": false,
+			"version": "1.30.0",
+			"sdkVersion": 2
+		},
+		{
+			"type": "plugin",
+			"id": "Sprite",
+			"name": "Спрайт",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "Text",
+			"name": "Текст",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "plugin",
+			"id": "TextBox",
+			"name": "Ввод текста",
+			"author": "Scirra",
+			"bundled": false
+		},
+		{
+			"type": "behavior",
+			"id": "Tween",
+			"name": "Твин-анимация",
+			"author": "Scirra",
+			"bundled": false
+		}
+	],
+	"uniqueId": "p0d3v2bqeel",
+	"objectTypes": {
+		"items": [],
+		"subfolders": [
+			{
+				"items": [
+					"ArrowTileMain",
+					"BackButton",
+					"IconBridgeMain",
+					"IconTileMain",
+					"TileMain",
+					"TextTileMain"
+				],
+				"subfolders": [],
+				"name": "Menu"
+			},
+			{
+				"items": [
+					"Browser",
+					"Mouse",
+					"PlaygamaBridge"
+				],
+				"subfolders": [],
+				"name": "System"
+			},
+			{
+				"items": [
+					"DarkGreyFon",
+					"FonBlack",
+					"GreyFon"
+				],
+				"subfolders": [],
+				"name": "Other"
+			},
+			{
+				"items": [],
+				"subfolders": [
+					{
+						"items": [
+							"TextBoxAchievements",
+							"TileAchievements",
+							"TextAchievements"
+						],
+						"subfolders": [],
+						"name": "Achievments"
+					},
+					{
+						"items": [
+							"TileAdverstining",
+							"AdvertisingText"
+						],
+						"subfolders": [],
+						"name": "Adverstining"
+					},
+					{
+						"items": [
+							"DeviceText"
+						],
+						"subfolders": [],
+						"name": "Device"
+					},
+					{
+						"items": [
+							"GameText"
+						],
+						"subfolders": [],
+						"name": "Game"
+					},
+					{
+						"items": [
+							"TextBoxLeaderboards",
+							"TileLeaderboards",
+							"TextLeaderboards"
+						],
+						"subfolders": [],
+						"name": "Leaderboards"
+					},
+					{
+						"items": [
+							"TextBoxPayments",
+							"TilePayments",
+							"TextPayments"
+						],
+						"subfolders": [],
+						"name": "Payments"
+					},
+					{
+						"items": [
+							"PlatformIcon",
+							"PlatformText",
+							"TextBoxPlatform",
+							"TilePlatform"
+						],
+						"subfolders": [],
+						"name": "Platform"
+					},
+					{
+						"items": [
+							"AvatarPlayer",
+							"TextPlayer",
+							"TilePlayer"
+						],
+						"subfolders": [],
+						"name": "Player"
+					},
+					{
+						"items": [
+							"TextRemoteConfig",
+							"TileRemoteConfig",
+							"TextBoxRemoteConfig"
+						],
+						"subfolders": [],
+						"name": "Remote Config"
+					},
+					{
+						"items": [
+							"TileSocial",
+							"TextSocial"
+						],
+						"subfolders": [],
+						"name": "Social"
+					},
+					{
+						"items": [
+							"SelecterStorage",
+							"TileStorage",
+							"TextBoxStorage",
+							"StorageText"
+						],
+						"subfolders": [],
+						"name": "Storage"
+					}
+				],
+				"name": "Layers"
+			}
+		]
+	},
+	"functionsName": "Функции",
+	"autosaveData": null,
+	"containers": [],
+	"families": {
+		"items": [
+			"Textbox",
+			"Tile"
+		],
+		"subfolders": []
+	},
+	"layouts": {
+		"items": [
+			"Bridge"
+		],
+		"subfolders": []
+	},
+	"eventSheets": {
+		"items": [
+			"BridgeES"
+		],
+		"subfolders": []
+	},
+	"rootFileFolders": {
+		"script": {
+			"items": [],
+			"subfolders": []
+		},
+		"sound": {
+			"items": [],
+			"subfolders": []
+		},
+		"music": {
+			"items": [],
+			"subfolders": []
+		},
+		"video": {
+			"items": [],
+			"subfolders": []
+		},
+		"font": {
+			"items": [
+				{
+					"name": "GeistMono-VariableFont_wght.ttf",
+					"type": "application/font-sfnt",
+					"sid": 123303806432981,
+					"file-info": {
+						"purpose": "none"
+					}
+				}
+			],
+			"subfolders": []
+		},
+		"icon": {
+			"items": [
+				{
+					"name": "Иконка-16.png",
+					"type": "image/png",
+					"sid": 603010213124365,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "Иконка-128.png",
+					"type": "image/png",
+					"sid": 196138648486628,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "Иконка-256.png",
+					"type": "image/png",
+					"sid": 898492727286639,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "Иконка-512.png",
+					"type": "image/png",
+					"sid": 846865069878908,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "Иконка-64.png",
+					"type": "image/png",
+					"sid": 399335516447512,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "Иконка-32.png",
+					"type": "image/png",
+					"sid": 803435881693346,
+					"icon-info": {
+						"purpose": "app-icon"
+					}
+				},
+				{
+					"name": "Иконка-загрузки.png",
+					"type": "image/png",
+					"sid": 170754781661395,
+					"icon-info": {
+						"purpose": "loading-logo"
+					}
+				}
+			],
+			"subfolders": []
+		},
+		"general": {
+			"items": [],
+			"subfolders": []
+		}
+	},
+	"timelines": {
+		"items": [
+			"Шкала 1"
+		],
+		"subfolders": [
+			{
+				"items": [],
+				"subfolders": []
+			}
+		]
+	},
+	"flowcharts": {
+		"items": [
+			"Блок-схема 1"
+		],
+		"subfolders": []
+	},
+	"models3d": {
+		"items": [],
+		"subfolders": []
+	},
+	"properties": {
+		"description": "Playgama Bridge",
+		"version": "1.0.0.0",
+		"autoIncrementVersion": false,
+		"author": "Baguhan",
+		"authorEmail": "https://baguhan.tilda.ws",
+		"authorWebsite": "https://baguhan.tilda.ws",
+		"appId": "com.baguhan.plygamabridge",
+		"pixelRounding": false,
+		"zAxisScale": "regular",
+		"fov": 0.7853981633974483,
+		"useLoaderLayout": false,
+		"fullscreenMode": "scale-outer",
+		"fullscreenQuality": "high",
+		"viewportFit": "cover",
+		"backgroundColor": [
+			0,
+			0,
+			0,
+			0
+		],
+		"splashColor": [
+			1,
+			1,
+			1,
+			0
+		],
+		"useThemeColor": false,
+		"themeColor": [
+			1,
+			1,
+			1,
+			0
+		],
+		"orientations": "landscape",
+		"webgpu": "auto",
+		"multitexturing": "auto",
+		"gpuPreference": "high-performance",
+		"framerateMode": "vsync",
+		"fixedFramerate": 30,
+		"sampling": "trilinear",
+		"downscaling": "medium",
+		"renderingMode": "auto",
+		"anisotropicFiltering": "auto",
+		"zNear": 1,
+		"zFar": 10000,
+		"maxSpriteSheetSize": 2048,
+		"loaderStyle": "splash",
+		"preloadSounds": true,
+		"uidAllocationMode": "increment",
+		"cordovaiOSScheme": "app",
+		"cordovaAndroidScheme": "https",
+		"exportFileStructure": "folders",
+		"scriptsType": "module"
+	},
+	"viewportWidth": 1920,
+	"viewportHeight": 1080,
+	"firstLayout": null
+}

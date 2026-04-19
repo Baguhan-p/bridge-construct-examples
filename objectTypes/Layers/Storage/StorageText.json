@@ -1,0 +1,16 @@
+{
+	"name": "StorageText",
+	"plugin-id": "Text",
+	"sid": 864384004039851,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Tween",
+			"name": "Твинанимация",
+			"sid": 329181297999230
+		}
+	],
+	"effectTypes": []
+}

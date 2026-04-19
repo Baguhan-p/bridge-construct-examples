@@ -1,0 +1,15 @@
+{
+	"name": "Textbox",
+	"plugin-id": "TextBox",
+	"sid": 731365404269189,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"members": [
+		"TextBoxStorage",
+		"TextBoxLeaderboards",
+		"TextBoxPayments",
+		"TextBoxPlatform",
+		"TextBoxAchievements",
+		"TextBoxRemoteConfig"
+	]
+}

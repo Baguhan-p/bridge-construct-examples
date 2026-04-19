@@ -1,0 +1,24 @@
+{
+	"name": "TextBoxRemoteConfig",
+	"plugin-id": "TextBox",
+	"sid": 178804196097511,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [
+		{
+			"name": "saveText",
+			"type": "string",
+			"desc": "",
+			"show": true,
+			"sid": 695068754887707
+		},
+		{
+			"name": "help",
+			"type": "string",
+			"desc": "",
+			"show": true,
+			"sid": 121124596637431
+		}
+	],
+	"behaviorTypes": []
+}

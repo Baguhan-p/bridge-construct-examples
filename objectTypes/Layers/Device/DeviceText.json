@@ -1,0 +1,16 @@
+{
+	"name": "DeviceText",
+	"plugin-id": "Text",
+	"sid": 420015068300189,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Tween",
+			"name": "Твинанимация",
+			"sid": 823001600477542
+		}
+	],
+	"effectTypes": []
+}

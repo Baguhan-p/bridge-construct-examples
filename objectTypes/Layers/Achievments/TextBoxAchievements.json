@@ -1,0 +1,24 @@
+{
+	"name": "TextBoxAchievements",
+	"plugin-id": "TextBox",
+	"sid": 917490959415217,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [
+		{
+			"name": "saveText",
+			"type": "string",
+			"desc": "",
+			"show": true,
+			"sid": 844274180263394
+		},
+		{
+			"name": "help",
+			"type": "string",
+			"desc": "",
+			"show": true,
+			"sid": 888967989087348
+		}
+	],
+	"behaviorTypes": []
+}

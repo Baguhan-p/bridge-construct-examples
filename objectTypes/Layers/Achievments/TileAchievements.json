@@ -1,0 +1,44 @@
+{
+	"name": "TileAchievements",
+	"plugin-id": "NinePatch",
+	"sid": 605787363330433,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [
+		{
+			"name": "baseSizeX",
+			"type": "number",
+			"desc": "",
+			"show": true,
+			"sid": 385876675459750
+		},
+		{
+			"name": "baseSizeY",
+			"type": "number",
+			"desc": "",
+			"show": true,
+			"sid": 827539867278655
+		}
+	],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Tween",
+			"name": "Твинанимация",
+			"sid": 158969146509376
+		}
+	],
+	"effectTypes": [],
+	"image": {
+		"width": 64,
+		"height": 64,
+		"originX": 0.5,
+		"originY": 0.5,
+		"originalSource": "",
+		"exportFormat": "lossless",
+		"exportQuality": 0.8,
+		"fileType": "image/png",
+		"imageSpriteId": 6633567,
+		"useCollisionPoly": true,
+		"tag": ""
+	}
+}

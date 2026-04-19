@@ -1,0 +1,44 @@
+{
+	"name": "TileStorage",
+	"plugin-id": "NinePatch",
+	"sid": 392116077849659,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [
+		{
+			"name": "baseSizeX",
+			"type": "number",
+			"desc": "",
+			"show": true,
+			"sid": 290743981560759
+		},
+		{
+			"name": "baseSizeY",
+			"type": "number",
+			"desc": "",
+			"show": true,
+			"sid": 285350140460502
+		}
+	],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Tween",
+			"name": "Твинанимация",
+			"sid": 487528716139884
+		}
+	],
+	"effectTypes": [],
+	"image": {
+		"width": 64,
+		"height": 64,
+		"originX": 0.5,
+		"originY": 0.5,
+		"originalSource": "",
+		"exportFormat": "lossless",
+		"exportQuality": 0.8,
+		"fileType": "image/png",
+		"imageSpriteId": 1255673,
+		"useCollisionPoly": true,
+		"tag": ""
+	}
+}

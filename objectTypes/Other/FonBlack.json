@@ -1,0 +1,37 @@
+{
+	"name": "FonBlack",
+	"plugin-id": "NinePatch",
+	"sid": 570609993664877,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [
+		{
+			"name": "size",
+			"type": "string",
+			"desc": "",
+			"show": true,
+			"sid": 635050085962461
+		}
+	],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Tween",
+			"name": "Твинанимация",
+			"sid": 411244984676257
+		}
+	],
+	"effectTypes": [],
+	"image": {
+		"width": 64,
+		"height": 64,
+		"originX": 0.5,
+		"originY": 0.5,
+		"originalSource": "",
+		"exportFormat": "lossless",
+		"exportQuality": 0.8,
+		"fileType": "image/png",
+		"imageSpriteId": 8761686,
+		"useCollisionPoly": true,
+		"tag": ""
+	}
+}

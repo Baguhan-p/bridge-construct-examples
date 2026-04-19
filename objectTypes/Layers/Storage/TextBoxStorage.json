@@ -1,0 +1,24 @@
+{
+	"name": "TextBoxStorage",
+	"plugin-id": "TextBox",
+	"sid": 875126525832362,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [
+		{
+			"name": "saveText",
+			"type": "string",
+			"desc": "",
+			"show": true,
+			"sid": 894401794612728
+		},
+		{
+			"name": "help",
+			"type": "string",
+			"desc": "",
+			"show": true,
+			"sid": 769615836540923
+		}
+	],
+	"behaviorTypes": []
+}

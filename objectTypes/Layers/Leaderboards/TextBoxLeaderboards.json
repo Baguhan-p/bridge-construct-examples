@@ -1,0 +1,24 @@
+{
+	"name": "TextBoxLeaderboards",
+	"plugin-id": "TextBox",
+	"sid": 771321825667511,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [
+		{
+			"name": "saveText",
+			"type": "string",
+			"desc": "",
+			"show": true,
+			"sid": 605510639919203
+		},
+		{
+			"name": "help",
+			"type": "string",
+			"desc": "",
+			"show": true,
+			"sid": 174069976544966
+		}
+	],
+	"behaviorTypes": []
+}

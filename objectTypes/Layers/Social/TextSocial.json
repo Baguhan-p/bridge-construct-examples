@@ -1,0 +1,16 @@
+{
+	"name": "TextSocial",
+	"plugin-id": "Text",
+	"sid": 565434167692935,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Tween",
+			"name": "Твинанимация",
+			"sid": 558516873178455
+		}
+	],
+	"effectTypes": []
+}

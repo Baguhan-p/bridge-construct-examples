@@ -1,0 +1,16 @@
+{
+	"name": "TextAchievements",
+	"plugin-id": "Text",
+	"sid": 101721906356685,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Tween",
+			"name": "Твинанимация",
+			"sid": 179172952977356
+		}
+	],
+	"effectTypes": []
+}

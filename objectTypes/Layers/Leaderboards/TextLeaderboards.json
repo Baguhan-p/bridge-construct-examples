@@ -1,0 +1,16 @@
+{
+	"name": "TextLeaderboards",
+	"plugin-id": "Text",
+	"sid": 855675709853493,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Tween",
+			"name": "Твинанимация",
+			"sid": 227269112324244
+		}
+	],
+	"effectTypes": []
+}

@@ -1,0 +1,44 @@
+{
+	"name": "TilePlayer",
+	"plugin-id": "NinePatch",
+	"sid": 521356839974467,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [
+		{
+			"name": "baseSizeX",
+			"type": "number",
+			"desc": "",
+			"show": true,
+			"sid": 741466920832765
+		},
+		{
+			"name": "baseSizeY",
+			"type": "number",
+			"desc": "",
+			"show": true,
+			"sid": 738808672907263
+		}
+	],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Tween",
+			"name": "Твинанимация",
+			"sid": 241176849270519
+		}
+	],
+	"effectTypes": [],
+	"image": {
+		"width": 64,
+		"height": 64,
+		"originX": 0.5,
+		"originY": 0.5,
+		"originalSource": "",
+		"exportFormat": "lossless",
+		"exportQuality": 0.8,
+		"fileType": "image/png",
+		"imageSpriteId": 6121143,
+		"useCollisionPoly": true,
+		"tag": ""
+	}
+}

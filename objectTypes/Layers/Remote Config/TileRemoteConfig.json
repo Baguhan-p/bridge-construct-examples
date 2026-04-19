@@ -1,0 +1,44 @@
+{
+	"name": "TileRemoteConfig",
+	"plugin-id": "NinePatch",
+	"sid": 162416937273974,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [
+		{
+			"name": "baseSizeX",
+			"type": "number",
+			"desc": "",
+			"show": true,
+			"sid": 527790486937256
+		},
+		{
+			"name": "baseSizeY",
+			"type": "number",
+			"desc": "",
+			"show": true,
+			"sid": 567262620914244
+		}
+	],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Tween",
+			"name": "Твинанимация",
+			"sid": 523056184477437
+		}
+	],
+	"effectTypes": [],
+	"image": {
+		"width": 64,
+		"height": 64,
+		"originX": 0.5,
+		"originY": 0.5,
+		"originalSource": "",
+		"exportFormat": "lossless",
+		"exportQuality": 0.8,
+		"fileType": "image/png",
+		"imageSpriteId": 8872969,
+		"useCollisionPoly": true,
+		"tag": ""
+	}
+}

@@ -1,0 +1,51 @@
+{
+	"name": "TileMain",
+	"plugin-id": "NinePatch",
+	"sid": 424688457626240,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [
+		{
+			"name": "ColorBase",
+			"type": "number",
+			"desc": "",
+			"show": true,
+			"sid": 985898678937375
+		},
+		{
+			"name": "ColorHover",
+			"type": "number",
+			"desc": "",
+			"show": true,
+			"sid": 389070556998476
+		},
+		{
+			"name": "n",
+			"type": "number",
+			"desc": "",
+			"show": true,
+			"sid": 446743782849069
+		}
+	],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Tween",
+			"name": "Твинанимация",
+			"sid": 251641438732690
+		}
+	],
+	"effectTypes": [],
+	"image": {
+		"width": 64,
+		"height": 64,
+		"originX": 0.5,
+		"originY": 0.5,
+		"originalSource": "",
+		"exportFormat": "lossless",
+		"exportQuality": 0.8,
+		"fileType": "image/png",
+		"imageSpriteId": 8130750,
+		"useCollisionPoly": true,
+		"tag": ""
+	}
+}

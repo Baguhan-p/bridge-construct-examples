@@ -1,0 +1,16 @@
+{
+	"name": "AdvertisingText",
+	"plugin-id": "Text",
+	"sid": 113789825951735,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Tween",
+			"name": "Твинанимация",
+			"sid": 223384707965717
+		}
+	],
+	"effectTypes": []
+}

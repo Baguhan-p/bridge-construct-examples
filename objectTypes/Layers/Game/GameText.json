@@ -1,0 +1,16 @@
+{
+	"name": "GameText",
+	"plugin-id": "Text",
+	"sid": 639719677392984,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Tween",
+			"name": "Твинанимация",
+			"sid": 439806981549389
+		}
+	],
+	"effectTypes": []
+}

@@ -1,0 +1,44 @@
+{
+	"name": "TileSocial",
+	"plugin-id": "NinePatch",
+	"sid": 702920574010336,
+	"isGlobal": false,
+	"editorNewInstanceIsReplica": true,
+	"instanceVariables": [
+		{
+			"name": "baseSizeX",
+			"type": "number",
+			"desc": "",
+			"show": true,
+			"sid": 893560776366726
+		},
+		{
+			"name": "baseSizeY",
+			"type": "number",
+			"desc": "",
+			"show": true,
+			"sid": 925999028760183
+		}
+	],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Tween",
+			"name": "Твинанимация",
+			"sid": 897212672954622
+		}
+	],
+	"effectTypes": [],
+	"image": {
+		"width": 64,
+		"height": 64,
+		"originX": 0.5,
+		"originY": 0.5,
+		"originalSource": "",
+		"exportFormat": "lossless",
+		"exportQuality": 0.8,
+		"fileType": "image/png",
+		"imageSpriteId": 1693978,
+		"useCollisionPoly": true,
+		"tag": ""
+	}
+}
